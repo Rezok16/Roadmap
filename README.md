@@ -23,4 +23,4 @@ Year 2: DevOps Specialization & Career Prep
 
  Months 25+: Study towards my AWS dev ops pro whilst i finish my last year in university.
 
-
+https://rezok16.github.io/Roadmap-progression/
