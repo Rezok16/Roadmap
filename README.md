@@ -22,3 +22,5 @@ Year 2: DevOps Specialization & Career Prep
  Months 22-24: Open Source + Interview Prep- Contribute to DevOps OSS (e.g., Helm charts, GitHub Actions)- Write blog posts documenting projects- Prepare for interviews (System Design, Python, Behaviorals)
 
  Months 25+: Study towards my AWS dev ops pro whilst i finish my last year in university.
+
+
